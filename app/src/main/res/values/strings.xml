@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyBookmark</string>
+    <string name="Last_study_page">My Bookmark</string>
+    <string name="number">Page:\u0020</string>
+    <string name="enterString">Enter Page Number</string>
+    <string name="Info_text">Just enter Number and Close the App. Everything is Automatic</string>
+    <string name="save">Save and Close</string>
+</resources>
