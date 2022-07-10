@@ -30,7 +30,7 @@ class MainActivity : AppCompatActivity() {
             }
         }
     }
-
+// Test Comment
     fun showSoftKeyboard(view: View) {
         if (view.requestFocus()) {
             val imm = getSystemService(Context.INPUT_METHOD_SERVICE) as InputMethodManager
